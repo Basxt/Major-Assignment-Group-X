@@ -1,0 +1,16 @@
+[
+    {
+        "loan_id": 101,
+        "customer_id": 1,
+        "amount": 50000,
+        "interest_rate": 8,
+        "duration_months": 12
+    },
+    {
+        "loan_id": 102,
+        "customer_id": 2,
+        "amount": 75000,
+        "interest_rate": 10,
+        "duration_months": 24
+    }
+]
