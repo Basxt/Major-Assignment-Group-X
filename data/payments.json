@@ -1,0 +1,14 @@
+[
+    {
+        "payment_id": 1,
+        "loan_id": 101,
+        "amount_paid": 5000,
+        "date": "2025-01-10"
+    },
+    {
+        "payment_id": 2,
+        "loan_id": 102,
+        "amount_paid": 8000,
+        "date": "2025-01-11"
+    }
+]
